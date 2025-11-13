@@ -5,7 +5,7 @@ body{
 }
 img{
     border-radius: 10px
-    transition 0.3s;
+    transition 0.1s;
 }
 button{
     margin: 10px;
