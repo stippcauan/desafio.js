@@ -8,5 +8,7 @@ function abrir(){
 function fechar(){
     janela.src = "img.jpeg";
 }
-function ligar(){
+function acender(){
+     luz.src;
+     document.body.style.background = "#ffeb3b22"
 }   
